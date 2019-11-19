@@ -1,0 +1,21 @@
+.chat-stream{
+    height: 66vh;
+
+    background-color: paleturquoise;
+    border: 5px solid tan;
+
+    display: flex;
+    align-items: flex-end;
+
+    overflow: hidden;
+}
+
+h1{
+    background-color: palegreen;
+    border: 5px solid tan;
+}
+
+div{
+    background-color: tan;
+    border: 5px solid tan;
+}
